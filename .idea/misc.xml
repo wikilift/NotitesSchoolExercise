@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/gradient.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/highlight_color.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_add_159647.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_add_1596470.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_baseline_build_24.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/img_notas.xml" value="0.3425" />
+        <entry key="app/src/main/res/drawable/nav_item_drawable.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/t.xml" value="0.3425" />
+        <entry key="app/src/main/res/drawable/transparent.xml" value="0.3425" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/fragment_create_new_note.xml" value="0.2935185185185185" />
+        <entry key="app/src/main/res/layout/fragment_delete_tasks.xml" value="0.2935185185185185" />
+        <entry key="app/src/main/res/layout/fragment_landing_layout.xml" value="0.2935185185185185" />
+        <entry key="app/src/main/res/layout/fragment_sheet_details.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/task_item_row.xml" value="0.35625" />
+        <entry key="app/src/main/res/menu-v26/upmenu.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/menu/upmenu.xml" value="0.20277777777777778" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.333786231884058" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

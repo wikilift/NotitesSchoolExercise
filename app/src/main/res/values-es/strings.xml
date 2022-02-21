@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Añadir nueva tarea</string>
+    <string name="home">Inicio</string>
+    <string name="back">Volver</string>
+    <string name="delete">Borrar</string>
+    <string name="singleDelete">Tarea eliminada</string>
+    <string name="create">Crear</string>
+    <string name="createHelp">Introduzca el texto para la nueva nota</string>
+    <string name="alert">Debe introducir una nota obligatoriamente</string>
+    <string name="addedDone">Nota añadida correctamente</string>
+    <string name="eraseAll">Borrar todas las notas</string>
+    <string name="allDeleted">Todos los registros han sido borrados</string>
+    <string name="options">Opciones</string>
+</resources>

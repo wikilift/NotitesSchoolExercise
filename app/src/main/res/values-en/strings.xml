@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Add new task</string>
+    <string name="home">Start</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="singleDelete">Tas was eliminated</string>
+    <string name="create">Create</string>
+    <string name="createHelp">Insert text to create new task</string>
+    <string name="alert">Must input text to create new task</string>
+    <string name="addedDone">Task added correctly</string>
+    <string name="eraseAll">Delete all the tasks</string>
+    <string name="allDeleted">All registries was erased</string>
+    <string name="options">Options</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Afegir nova tasca</string>
+    <string name="home">Inici</string>
+    <string name="back">Tornar</string>
+    <string name="delete">Borrar</string>
+    <string name="singleDelete">Tasca eliminada</string>
+    <string name="create">Crear</string>
+    <string name="createHelp">Introdueix-hi el text per la nova nota</string>
+    <string name="alert">S ha d introduir obligatoriament la nota</string>
+    <string name="addedDone">Tasca afegida correctament</string>
+    <string name="eraseAll">Borrar totes les tasques</string>
+    <string name="allDeleted">Tots el registres han sigut borrats</string>
+    <string name="options">Opcions</string>
+</resources>
